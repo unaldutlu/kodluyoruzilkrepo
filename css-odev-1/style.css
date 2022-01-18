@@ -1,0 +1,42 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+a:hover {
+  color: red;
+}
+.shopp,
+header,
+h1,
+h3,
+h4,
+ul {
+  text-align: center;
+}
+
+h1 {
+  color: chocolate;
+}
+
+h3 {
+  color: skyblue;
+}
+
+h4,
+h5 {
+  color: chartreuse;
+}
+
+a {
+  color: blue;
+}
+
+li {
+  list-style-position: inside;
+  color: blueviolet;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
